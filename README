@@ -1,0 +1,5 @@
+For the web version of this article, see the blog post at
+
+http://trycatch.me/adding-custom-message-headers-to-a-wcf-service-using-inspectors-behaviors/
+
+The purpose of this solution is to provide an overview of how to implement custom message inspectors and custom WCF behaviors to allow a developer to inject and extract custom information into the message headers of a request being sent through a WCF Service call.
